@@ -1,0 +1,9 @@
+*.jsonl
+*.json
+.ipynb_checkpoints
+*.txt
+__pycache__
+medical_qa_ru_data.json
+*.csv
+last*
+*.pth
